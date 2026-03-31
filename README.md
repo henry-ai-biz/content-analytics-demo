@@ -4,7 +4,7 @@ A live analytics report produced by the content tracking pipeline built into **[
 
 ## What This Is
 
-**[View the report](https://henry-ai-biz.github.io/portfolio-content-analytics-demo/#)**
+**[View the report](https://henry-ai-biz.github.io/content-analytics-demo/#)**
 
 The report is a self-contained dashboard showing YouTube performance metrics for **LincolnPlaysRivals**, a gaming channel featuring father-and-son *Marvel Rivals* highlight reels. Every video on the channel is produced end-to-end by an AI content pipeline.
 
